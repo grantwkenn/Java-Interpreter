@@ -1,2 +1,2 @@
 # Java-Interpreter
-This project emulates an interpreter of hypothetical "X" language compiled byte codes
+This project emulates an interpreter of the hypothetical "X" language compiled byte codes
